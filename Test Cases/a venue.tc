@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>a venue</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d4d99042-584d-43af-b05a-1077e5a71957</testCaseGuid>
+   <testCaseGuid>8f5f0739-3bb6-43a3-b672-0a10b0a1b8ca</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>666ac61e-42ed-47db-8b0a-3643641a2282</id>
+      <id>412b4918-f85a-4c60-b581-7c8d0c997194</id>
       <masked>false</masked>
-      <name>Venue</name>
+      <name>customer</name>
    </variable>
 </TestCaseEntity>
