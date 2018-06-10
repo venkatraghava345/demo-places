@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Page_Ontro/button_Login'))
 
 WebUI.click(findTestObject('Page_Ontro/span_Venues'))
 
-WebUI.setText(findTestObject('Page_Ontro/input_form-control'), 'velachery')
+WebUI.setText(findTestObject('Page_Ontro/input_form-control'), Venue)
 
 WebUI.sendKeys(findTestObject('Page_Ontro/input_form-control'), Keys.chord(Keys.ENTER))
 

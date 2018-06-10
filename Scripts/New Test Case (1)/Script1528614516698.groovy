@@ -30,7 +30,7 @@ WebUI.setText(findTestObject('Page_Ontro (1)/input_password'), 'password')
 
 WebUI.click(findTestObject('Page_Ontro (1)/button_Login'))
 
-WebUI.setText(findTestObject('Page_Ontro (1)/input_form-control'), 'tokin')
+WebUI.setText(findTestObject('Page_Ontro (1)/input_form-control'), customer)
 
 WebUI.sendKeys(findTestObject('Page_Ontro (1)/input_form-control'), Keys.chord(Keys.ENTER))
 
